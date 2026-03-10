@@ -1,5 +1,7 @@
 #include <iostream>
 
+int x;
+
 void branch2(){
     std::cout << "branch" << std::endl;
 }
