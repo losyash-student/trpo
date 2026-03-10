@@ -1,6 +1,6 @@
 #include <iostream>
 
-int x;
+int kopatich;
 
 void branch2(){
     std::cout << "branch" << std::endl;
